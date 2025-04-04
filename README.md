@@ -2,7 +2,7 @@
 BraTS Medical, Advancing brain tumor segmentation
 Welcome to the BraTS Medical Python Repository! This project is dedicated to advancing brain tumor segmentation using state-of-the-art algorithms and tools. It is built to support researchers and practitioners in the medical imaging field.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/BraTs_UNET_MRI-_2025/refs/heads/main/BraTs_Visualize.png" alt="Description" width="800" height="600" />
+  <img src="https://raw.githubusercontent.com/AISoltani/BraTs_UNET_MRI-_2025/refs/heads/main/BraTs_Visualize.png" alt="Description" width="800" height="500" />
 </div>
 ## Overview
 This repository provides:
